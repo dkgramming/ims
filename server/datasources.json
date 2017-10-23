@@ -1,1 +1,12 @@
-{}
+{
+  "ims": {
+    "host": "localhost",
+    "port": 5432,
+    "url": "",
+    "database": "ims",
+    "password": "csrV4.0",
+    "name": "ims",
+    "user": "dmk",
+    "connector": "postgresql"
+  }
+}
